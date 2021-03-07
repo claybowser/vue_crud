@@ -1,5 +1,7 @@
 # vue-crash-2021
 
+### SPA Vue application written by me thanks to [Traversy Media](https://www.traversymedia.com/)
+
 ## Project setup
 ```
 npm install
