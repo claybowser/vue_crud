@@ -23,6 +23,12 @@
       "text": "weqeqweqw",
       "day": "dda",
       "reminder": true
+    },
+    {
+      "text": "yrdy",
+      "day": "test",
+      "reminder": false,
+      "id": 40956
     }
   ]
 }
